@@ -44,7 +44,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: /images/Lindsay+and+Paul-8.jpg
     image_position: left
     title: A Section With An Image
     content: >-
