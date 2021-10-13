@@ -46,7 +46,7 @@ sections:
     type: section_content
     image: /images/Lindsay+and+Paul-8.jpg
     image_position: left
-    title: A Section With An Image
+    title: Decor Hire for weddings in Cape Town
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
