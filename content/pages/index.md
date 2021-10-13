@@ -60,7 +60,7 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: Weddings and events decor hiring Cape Town
     content: >+
       We help transform your wedding by supplying the latest in premium decor
       and furniture for hire.
